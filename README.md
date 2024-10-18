@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @unkwonme
 - 👀 I’m interested in HTML, CSS, and Java Script
 - 🌱 I’m currently learning Java Script
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: unknown
 - ⚡ Fun fact: I'm 14
 
 ## 🌐 Socials:
